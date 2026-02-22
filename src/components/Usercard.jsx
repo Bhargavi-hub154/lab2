@@ -1,4 +1,4 @@
-function UserCard({ user }) {
+function Usercard({ user }) {
   return (
     <div className="user-card">
 
@@ -31,4 +31,4 @@ function UserCard({ user }) {
   );
 }
 
-export default UserCard;
+export default Usercard;

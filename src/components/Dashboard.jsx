@@ -1,5 +1,5 @@
 import Header from "./Header";
-import UserCard from "./UserCard";  
+import Usercard from "./Usercard";  
 
 function Dashboard() {
   const user = {
@@ -18,7 +18,7 @@ function Dashboard() {
   return (
     <div>
       <Header title="User Dashboard" />
-      <UserCard user={user} />
+      <Usercard user={user} />
     </div>
   );
 }
