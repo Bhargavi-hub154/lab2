@@ -11,7 +11,7 @@ function Dashboard() {
     course: "BTech CSE (AI & ML)",
     joined: "2025",
     status: "Active",
-    about: "Passionate about AI and building real-world projects.",
+    about: "Passionate about AI and building real-world projects. yes true",
     skills: ["HTML", "CSS", "Professional in JavaScript", "React", "Master in Java"]
   };
 
